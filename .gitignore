@@ -31,3 +31,18 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# OS files
+.DS_Store
+
+# Environment files (IMPORTANT)
+.env
+*.env
+application-local.properties
+
+# Temporary
+*.tmp
+*.swp
+
+# Compiled
+*.class
